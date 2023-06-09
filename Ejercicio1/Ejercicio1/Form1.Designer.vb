@@ -40,9 +40,8 @@ Partial Class Form1
         lblMostrar.AutoSize = True
         lblMostrar.Location = New Point(232, 121)
         lblMostrar.Name = "lblMostrar"
-        lblMostrar.Size = New Size(41, 15)
+        lblMostrar.Size = New Size(0, 15)
         lblMostrar.TabIndex = 1
-        lblMostrar.Text = "Label1"
         ' 
         ' Form1
         ' 

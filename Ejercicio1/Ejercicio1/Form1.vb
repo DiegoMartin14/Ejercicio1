@@ -8,7 +8,8 @@
         For j = 1 To numero
             resultado = resultado * j
         Next j
-        lblMostrar.Text = "" & resultado
+        lblMostrar.Text = "su factorial es = " & resultado
 
     End Sub
+
 End Class
